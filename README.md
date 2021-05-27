@@ -1,11 +1,9 @@
 ## Hello tylt6688 Fans 👋 😄
-
-### I'm tylt6688
 ![info](https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently learn in Shandong, China.
-- 💬 Ask me about Knowledge and my projects on [tylt6688@qq.com](mailto:tylt6688@qq.com)
+- 💬 Ask me about Knowledge and my projects on [tylt6688@gmail.com](mailto:tylt6688@gmail.com)
 - ⭐ You may like [blogsite](https://love.tylt.xyz)
 - ⚡ Fun fact: Data Analysis📊
 
