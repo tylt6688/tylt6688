@@ -37,7 +37,7 @@
 ### 关于我
 - [知乎](https://www.zhihu.com/people/tylt6688)
 - [CSDN](https://tylt6688.blog.csdn.net/)
-- [微博](http://weibo.com/tylt6688)
+- [微博](https://weibo.com/u/2662012821)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
