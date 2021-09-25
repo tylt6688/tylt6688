@@ -29,6 +29,6 @@
 - [CSDN](https://tylt6688.blog.csdn.net/)
 - [微博](https://weibo.com/u/2662012821)
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😄 ***
+> **I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😄 **
 
 ⭐️ From [tylt6688](https://github.com/tylt6688)
