@@ -21,9 +21,6 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-### 开源项目
-- [FlaskBlog](https://github.com/tylt6688/FlaskBlog) 使用Python Flask 编写的练手小博客
-
 ### 关于我
 - [知乎](https://www.zhihu.com/people/tylt6688)
 - [CSDN](https://tylt6688.blog.csdn.net/)
