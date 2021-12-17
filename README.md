@@ -1,4 +1,4 @@
-## Hello tylt6688 Fans 👋 :octocat:
+## :octocat: Hello tylt6688 Fans 👋 
 ![info](https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 - 😄 A Computer Engineering Undergraduate Student. & Open Source enthusiast.
