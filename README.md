@@ -1,4 +1,4 @@
-## Hello tylt6688 Fans 👋 :octocat:
+## :octocat: Hello tylt6688 Fans 👋 
 ![info](https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 - 😄 A Computer Science and Technology Student. & Open Source enthusiast.
@@ -21,9 +21,6 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-### 开源项目
-- [FlaskBlog](https://github.com/tylt6688/FlaskBlog) 使用Python Flask 编写的练手小博客
-
 ### 关于我
 - [CSDN](https://tylt6688.blog.csdn.net/)
 - [知乎](https://www.zhihu.com/people/tylt6688)
@@ -33,3 +30,4 @@
 > I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😄
 
 ⭐️ From [tylt6688](https://github.com/tylt6688)
+
