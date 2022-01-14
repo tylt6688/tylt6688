@@ -1,7 +1,7 @@
 ## Hello tylt6688 Fans 👋 :octocat:
 ![info](https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-- 😄 A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- 😄 A Computer Science and Technology Student. & Open Source enthusiast.
 - 🌱 Currently learning in Shandong, China.
 - 💬 Ask me about Knowledge and my projects on [tylt6688@gmail.com](mailto:tylt6688@gmail.com)
 - ⭐ You may like [blogsite](https://love.tylt.xyz)
@@ -25,9 +25,10 @@
 - [FlaskBlog](https://github.com/tylt6688/FlaskBlog) 使用Python Flask 编写的练手小博客
 
 ### 关于我
-- [知乎](https://www.zhihu.com/people/tylt6688)
 - [CSDN](https://tylt6688.blog.csdn.net/)
+- [知乎](https://www.zhihu.com/people/tylt6688)
 - [微博](https://weibo.com/u/2662012821)
+- 微信公众号【天宇龙腾】
 
 > I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😄
 
