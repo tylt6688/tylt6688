@@ -2,7 +2,6 @@
 ![info](https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 - 😄 A Computer Science and Technology Student. & Open Source enthusiast.
-- 🌱 Currently learning in Shandong, China.
 - 💬 Ask me about Knowledge and my projects on [tylt6688@gmail.com](mailto:tylt6688@gmail.com)
 - ⭐ You may like [blogsite](https://love.tylt.xyz)
 - ⚡ Fun fact: Data Analysis📊
@@ -22,10 +21,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ### 关于我
-- [CSDN](https://tylt6688.blog.csdn.net/)
-- [知乎](https://www.zhihu.com/people/tylt6688)
-- [微博](https://weibo.com/u/2662012821)
-- 微信公众号【天宇龙腾】
+
+| [CSDN](https://tylt6688.blog.csdn.net/) | [知乎](https://www.zhihu.com/people/tylt6688) | [微博](https://weibo.com/u/2662012821) | 微信公众号 [天宇龙腾] |
+| --------------------------------------- | --------------------------------------------- | -------------------------------------- | --------------------- |
 
 > I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😄
 
