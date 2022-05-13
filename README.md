@@ -1,10 +1,10 @@
 ## :octocat: Hello tylt6688 Fans 👋 
 ![info](https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-- 😄 A Computer Science and Technology Student. & Open Source enthusiast.
-- 💬 Ask me about Knowledge and my projects on [tylt6688@gmail.com](mailto:tylt6688@gmail.com)
-- ⭐ You may like [blogsite](https://love.tylt.xyz)
-- ⚡ Fun fact: Data Analysis📊
+- 😄 一位  <u>*即将毕业板砖的*</u>   计算机科学与技术专业的学生开源爱好者
+- 💌 对于开源项目的问题请通过 [tylt6688@gmail.com](mailto:tylt6688@gmail.com) 联系我
+- ⭐ 如果对您提供了些许帮助的话希望可以点一下 `star`
+- ⚡ 希望大家能在知识的海洋里遨游，🐱‍🏍坚信科技拥抱生活🙆‍♂️
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -22,8 +22,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ### 关于我
 
-| [CSDN](https://blog.csdn.net/tylt6688) | [知乎](https://www.zhihu.com/people/tylt6688) | [微博](https://weibo.com/u/2662012821) | 微信公众号 [天宇龙腾] |
-| -------------------------------------- | --------------------------------------------- | -------------------------------------- | --------------------- |
+| [CSDN](https://blog.csdn.net/tylt6688) | [知乎](https://www.zhihu.com/people/tylt6688) | [微博](https://weibo.com/u/2662012821) | [私人博客](https://love.tylt.xyz) | 微信公众号 [天宇龙腾] |
+| -------------------------------------- | --------------------------------------------- | -------------------------------------- | --------------------------------- | --------------------- |
 
 > I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😄
 
