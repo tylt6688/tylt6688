@@ -1,5 +1,12 @@
 ## :octocat: Hello tylt6688 Fans 👋 
-![info](https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=tylt6688" /> </div>
+
+<div align="center">
+    
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tylt6688" /> </div>
+
+
 
 - 😄 一位  <u>*已经开始搬砖的*</u>   计算机科学与技术专业学生与**开源程序开发攻城狮**
 - 💌 需要与我联系可以通过邮箱 [tylt6688@gmail.com](mailto:tylt6688@gmail.com) 找到我
@@ -9,7 +16,9 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylt6688&layout=compact)](https://github.com/tylt6688/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylt6688&layout=compact" /> </div>
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
