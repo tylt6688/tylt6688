@@ -15,8 +15,8 @@
 ### 🛠 技术栈 | Tech Stack
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylt6688&layout=compact" /> </div>
+    <img  height="137px" src="https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
+    <img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylt6688&layout=compact" /> </div>
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
