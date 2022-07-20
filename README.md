@@ -3,7 +3,7 @@
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=tylt6688" /> </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tylt6688" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/> 
 </div>
 
 - 😄 一位  <u>*已经开始搬砖的*</u>   计算机科学与技术专业学生与**开源程序开发攻城狮**
@@ -13,10 +13,6 @@
 - 🎏 希望大家能在知识的海洋里遨游，🐱‍🏍坚信科技拥抱生活🙆‍♂️
 
 ### 🛠 技术栈 | Tech Stack
-
-<div align="center">
-    <img  height="140px" src="https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
-    <img  height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylt6688&layout=compact" /> </div>
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
@@ -31,6 +27,21 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+### # 🚀 所做之事 | Actions
+
+<div align="center">
+    <img  height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=tylt6688" />
+    <img  height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylt6688&layout=compact" /> 
+</div>
+
+ 
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=tylt6688&theme=dracula" />
+</div>
+
+
+
 | [CSDN](https://blog.csdn.net/tylt6688) | [知乎](https://www.zhihu.com/people/tylt6688) | [微博](https://weibo.com/u/2662012821) | [私人博客](https://love.tylt.xyz) | 微信公众号 [天宇龙腾] |
 | -------------------------------------- | --------------------------------------------- | -------------------------------------- | --------------------------------- | --------------------- |
 
@@ -38,4 +49,3 @@
 
 ⭐️ From [tylt6688](https://github.com/tylt6688)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tylt6688&theme=dracula)](https://github.com/tylt6688/github-readme-activity-graph)
