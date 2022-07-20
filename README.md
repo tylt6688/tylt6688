@@ -1,7 +1,5 @@
 ## :octocat: Hello tylt6688 Fans 👋 
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=tylt6688" /> </div>
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/> 
 </div>
@@ -46,6 +44,8 @@
 | -------------------------------------- | --------------------------------------------- | -------------------------------------- | --------------------------------- | --------------------- |
 
 > I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😄
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=tylt6688" /> </div>
 
 ⭐️ From [tylt6688](https://github.com/tylt6688)
 
