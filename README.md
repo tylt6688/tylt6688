@@ -3,10 +3,8 @@
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=tylt6688" /> </div>
 
 <div align="center">
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tylt6688" /> </div>
-
-
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tylt6688" /> 
+</div>
 
 - 😄 一位  <u>*已经开始搬砖的*</u>   计算机科学与技术专业学生与**开源程序开发攻城狮**
 - 💌 需要与我联系可以通过邮箱 [tylt6688@gmail.com](mailto:tylt6688@gmail.com) 找到我
