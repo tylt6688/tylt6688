@@ -24,11 +24,11 @@
     <img  height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylt6688&layout=compact" /> 
 </div>
 
- 
 
-<div align="center">
+
+<!-- 连续提交代码天数记录<div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=tylt6688&theme=dracula" />
-</div>
+</div> -->
 
 
 
