@@ -3,10 +3,12 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard"/> 
 </div>
+<div> <img src="https://visitor-badge.glitch.me/badge?page_id=tylt6688" /> </div>
+
 
 - 😄 一位  <u>*已经开始搬砖的*</u>   计算机科学与技术专业学生与**开源程序开发攻城狮**
 - 💌 需要与我联系可以通过邮箱 [tylt6688@gmail.com](mailto:tylt6688@gmail.com) 找到我
-- 🙌 对于开源项目的问题可以通过`issues`提出或使用邮箱联系我
+- 🙌 对于开源项目的问题可以使用`issues`提出或通过邮箱联系我
 - ❤ 如果对您提供了些许帮助的话可以给项目点一下 `star`⭐
 - 🎏 希望大家能在知识的海洋里遨游，🐱‍🏍坚信科技拥抱生活🙆‍♂️
 
@@ -29,15 +31,11 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=tylt6688&theme=dracula" />
 </div> -->
 
-
+> **I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😄**
 
 
 | [CSDN](https://blog.csdn.net/tylt6688) | [知乎](https://www.zhihu.com/people/tylt6688) | [微博](https://weibo.com/u/2662012821) | [博客](https://love.tylt.xyz) | 微信公众号 [天宇龙腾] |
 | :------------------------------------: | :-------------------------------------------: | :------------------------------------: | :---------------------------: | :-------------------: |
-
-> I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😄
-
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=tylt6688" /> </div>
 
 ⭐️ From [tylt6688](https://github.com/tylt6688)
 
