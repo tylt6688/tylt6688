@@ -4,16 +4,9 @@
     <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
     <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylt6688&layout=compact" /> 
 </div>
-
-
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=tylt6688" />  
+<p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=tylt6688&label=Profile%20views&color=0e75b6&style=flat" alt="tylt6688" /> 
 </p>
-
-
-
-
 
 - 😄 一位  <u>*正在搬砖的*</u>   计算机科学与技术专业 **开源程序开发攻城狮**
 - 📫需要联系可以通过邮箱 [tylt6688@gmail.com](mailto:tylt6688@gmail.com) 找到我
