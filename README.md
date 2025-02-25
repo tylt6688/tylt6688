@@ -8,11 +8,12 @@
     <img src="https://komarev.com/ghpvc/?username=tylt6688&label=Profile%20views&color=0e75b6&style=flat" alt="tylt6688" /> 
 </p>
 
-- 😄 一位  <u>*正在搬砖的*</u>   计算机科学与技术专业 **开源程序开发攻城狮**
-- 📫需要联系可以通过邮箱 [tylt6688@gmail.com](mailto:tylt6688@gmail.com) 找到我
-- 👨‍💻 对于开源项目的问题可以使用`issues`提出或者直接发送邮件💌 
-- ❤ 如果对您提供了些许帮助的话可以给项目点一下 `star`⭐
-- 🎏 希望大家能在知识的海洋里遨游，🐱‍🏍坚信科技拥抱生活🙆‍♂️
+- 😄 一位  <u>*每天搬砖的*</u>  **开发攻城狮**
+
+- 👨‍💻 对于项目的问题可以直接在`issues`提出💌 
+- ❤ 如果对您提供了些许帮助的话可以给项目点一下 ⭐`star`
+- 📫 需要联系可以向 [tylt6688@gmail.com](mailto:tylt6688@gmail.com) 发送邮件
+- 🎏 希望各位在知识的海洋里自由遨游，🐱‍🏍坚信科技拥抱生活🙆‍♂️
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -32,25 +33,7 @@
 
 ### 🚀 所做之事 | Actions
 
-
-
-<!-- 总数记录-->
-
-<!--🔭 当前在一家机器人公司全职工作-->
-
-<!-- https://github-readme-streak-stats.herokuapp.com/?user=tylt6688 -->
-
-<!-- 连续提交代码天数记录-->
-
-<!-- <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=tylt6688&theme=dracula" />
-</div> -->
-
 > 🤝 **I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😄**
-
-
-| [CSDN](https://blog.csdn.net/tylt6688) | [知乎](https://www.zhihu.com/people/tylt6688) | [微博](https://weibo.com/u/2662012821) | [博客](https://love.tylt.xyz) | 微信公众号 [天宇龙腾] |
-| :------------------------------------: | :-------------------------------------------: | :------------------------------------: | :---------------------------: | :-------------------: |
 
 ⭐️ From [tylt6688](https://github.com/tylt6688)
 
