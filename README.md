@@ -1,12 +1,9 @@
 ## :octocat: Hello tylt6688 Fans 👋 
 
-<div align="center">
-    <img  height="150px" src="https://github-readme-stats.vercel.app/api?username=tylt6688&show_icons=true&count_private=true&hide=prs&theme=default_repocard" />
-    <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylt6688&layout=compact" /> 
-</div>
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=tylt6688&label=Profile%20views&color=0e75b6&style=flat" alt="tylt6688" /> 
 </p>
+
 
 - 😄 一位  <u>*正在搬砖的*</u>  **开发攻城狮**
 - 👨‍💻 项目问题可以直接在`issues`提出💌 
