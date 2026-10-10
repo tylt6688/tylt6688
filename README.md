@@ -1,14 +1,8 @@
 ## :octocat: Hello tylt6688 Fans 👋 
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=tylt6688&label=Profile%20views&color=0e75b6&style=flat" alt="tylt6688" /> 
-</p>
-
-
-- 😄 一位  <u>*正在搬砖的*</u>  **开发攻城狮**
 - 👨‍💻 项目问题可以直接在`issues`提出💌 
-- ❤ 如果对您提供了些许帮助的话可以给项目点一下 ⭐`star`
-- 🎏 希望各位在知识的海洋里自由遨游，🐱‍🏍坚信科技拥抱生活🙆‍♂️
+- ❤ 如果对您提供了帮助可以给项目点一下 ⭐`star`
+- 🎏 希望各位能在开源的海洋里遨游，🐱‍🏍坚信科技拥抱生活🙆‍♂️
 
 ### 🛠 技术栈 | Tech Stack
 
